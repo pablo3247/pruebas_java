@@ -43,7 +43,7 @@ Que tu programilla imprima esto.
 
 Pista
 
-
+ 
 <details>
 <summary>Pista1</summary>
 Las piramides las hicieron los aliens, a que querias la pista sobre el codigo? usa un for i eso.
