@@ -49,12 +49,12 @@ Pista
 Las piramides las hicieron los aliens, a que querias la pista sobre el codigo? usa un for i eso.
 </details>
 
-<details open>
+<details >
 <summary>Pista2</summary>
 Segura que quieres abrir la tercera pista?
 </details>
 
-<details open>
+<details >
 <summary>Tercera pista</summary>
 Para juntar varias estrelliatas, tienes que "sumarlas" en una variable tipo string
 
@@ -65,7 +65,7 @@ Que era una string Dama?
 
 ### Palindromo
 Que es un palindromo?
-<details open>
+<details >
 <summary>Pista</summary>
 A nadie le importa.
 </details>
@@ -80,7 +80,7 @@ Puedes usar esto, si quires,vale?
 
 `charAt()`
 
-<details open>
+<details >
 <summary>Pista 1</summary>
 length = largo
 
